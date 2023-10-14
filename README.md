@@ -51,7 +51,7 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 ```
 
 ## OUTPUT:
-![Output_1](Output.png)
+![Output_1](Output_1.jpeg)
 ## RESULT:
 
 Monte Carlo Control successfully learned an optimal policy for the specified environment.
